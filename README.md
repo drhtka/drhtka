@@ -144,14 +144,17 @@ I build full‑cycle products — from backend logic and frontend interfaces to 
 
 ---
 
-## (Optional) GitHub Stats Cards
-
-If your network blocks `vercel.app` or it rate-limits, these may not load.
-You can remove this section if you want maximum reliability.
+## Signal
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=drhtka&show_icons=true&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drhtka&layout=compact&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=8b949e" />
+  <img src="https://img.shields.io/github/followers/drhtka?style=flat&label=followers&color=0b1220" />
+  <img src="https://img.shields.io/github/stars/drhtka/anti_fraud_analytics_platform?style=flat&label=anti-fraud%20stars&color=0b1220" />
+  <img src="https://img.shields.io/github/stars/drhtka/AI-Knowledge-Assistant?style=flat&label=AI%20assistant%20stars&color=0b1220" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/github/last-commit/drhtka/anti_fraud_analytics_platform?style=flat&label=anti-fraud%20updated&color=0b1220" />
+  <img src="https://img.shields.io/github/last-commit/drhtka/AI-Knowledge-Assistant?style=flat&label=AI%20assistant%20updated&color=0b1220" />
 </div>
 
 ---
