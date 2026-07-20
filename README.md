@@ -64,38 +64,40 @@ I build full-cycle products: backend logic, frontend interfaces, deployment, mon
   <tr>
     <td width="50%" valign="top">
       <h3>Anti‑Fraud Analytics Platform</h3>
+      <p>Product-style risk console for transaction scoring, fraud signal review, and analyst decision support.</p>
       <p>
-        Product-style risk console for transaction scoring, fraud signal review, and analyst decision support.
+        <a href="https://antifraud.pp.ua/">
+          <img src="https://img.shields.io/badge/Live%20Demo-antifraud.pp.ua-0b1220?style=flat" />
+        </a>
+        <a href="https://github.com/drhtka/anti_fraud_analytics_platform">
+          <img src="https://img.shields.io/badge/Repository-GitHub-0b1220?style=flat" />
+        </a>
+        <a href="https://fsprojects.pp.ua/project-descriptions/transaction-anti-fraud-scoring-ml/">
+          <img src="https://img.shields.io/badge/Case%20Study-fsprojects.pp.ua-0b1220?style=flat" />
+        </a>
       </p>
-
-      <p>
-        <a href="https://antifraud.pp.ua/"><img src="https://img.shields.io/badge/Live%20Demo-antifraud.pp.ua-0b1220?style=flat" /></a>
-        <a href="https://github.com/drhtka/anti_fraud_analytics_platform"><img src="https://img.shields.io/badge/Repository-GitHub-0b1220?style=flat" /></a>
-        <a href="https://fsprojects.pp.ua/project-descriptions/transaction-anti-fraud-scoring-ml/"><img src="https://img.shields.io/badge/Case%20Study-fsprojects.pp.ua-0b1220?style=flat" /></a>
-      </p>
-
       <p><strong>Stack:</strong> Flask, Vanilla JS (ES Modules), CSS, Docker</p>
       <p><strong>Highlights:</strong> scoring flow, investigation UI, monitoring surface, production deploy</p>
     </td>
-
     <td width="50%" valign="top">
       <h3>AI Knowledge Assistant</h3>
+      <p>AI-powered assistant for internal knowledge and documents using retrieval and grounded answers.</p>
       <p>
-        AI-powered assistant for internal knowledge and documents using retrieval and grounded answers.
+        <a href="https://assistant.fsprojects.pp.ua/">
+          <img src="https://img.shields.io/badge/Live%20Demo-assistant.fsprojects.pp.ua-0b1220?style=flat" />
+        </a>
+        <a href="https://github.com/drhtka/AI-Knowledge-Assistant">
+          <img src="https://img.shields.io/badge/Repository-GitHub-0b1220?style=flat" />
+        </a>
+        <a href="https://fsprojects.pp.ua/project-descriptions/ai-knowledge-assistant/">
+          <img src="https://img.shields.io/badge/Case%20Study-fsprojects.pp.ua-0b1220?style=flat" />
+        </a>
       </p>
-
-      <p>
-        <a href="https://assistant.fsprojects.pp.ua/"><img src="https://img.shields.io/badge/Live%20Demo-assistant.fsprojects.pp.ua-0b1220?style=flat" /></a>
-        <a href="https://github.com/drhtka/AI-Knowledge-Assistant"><img src="https://img.shields.io/badge/Repository-GitHub-0b1220?style=flat" /></a>
-        <a href="https://fsprojects.pp.ua/project-descriptions/ai-knowledge-assistant/"><img src="https://img.shields.io/badge/Case%20Study-fsprojects.pp.ua-0b1220?style=flat" /></a>
-      </p>
-
       <p><strong>Stack:</strong> Python, RAG, vector search, embeddings, LLM integration</p>
       <p><strong>Highlights:</strong> ingestion, retrieval pipeline, UI, grounded answers</p>
     </td>
   </tr>
 </table>
-
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -109,7 +111,6 @@ I build full-cycle products: backend logic, frontend interfaces, deployment, mon
       </p>
       <p><strong>Focus:</strong> production workflows, billing, integrations, stability</p>
     </td>
-
     <td width="50%" valign="top">
       <h3>Happy Lotto Algorithm</h3>
       <p>
