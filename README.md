@@ -144,14 +144,6 @@ I build full‑cycle products — from backend logic and frontend interfaces to 
 
 ---
 
-## GitHub Metrics
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/drhtka?template=classic&config.timezone=Europe%2FKyiv" />
-</div>
-
----
-
 ## Contact
 
 - Telegram: https://t.me/drhtka
