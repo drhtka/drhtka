@@ -44,9 +44,9 @@ I build full-cycle products: backend logic, frontend interfaces, deployment, mon
 
 ## Signal
 <div align="center">
-  <img src="https://img.shields.io/github/stars/drhtka/anti_fraud_analytics_platform?style=flat&label=Anti‑Fraud%20Analytics%20stars&color=0b1220" />
-  <img src="https://img.shields.io/github/forks/drhtka/anti_fraud_analytics_platform?style=flat&label=Anti‑Fraud%20Analytics%20forks&color=0b1220" />
-  <img src="https://img.shields.io/github/last-commit/drhtka/anti_fraud_analytics_platform?style=flat&label=Anti‑Fraud%20Analytics%20updated&color=0b1220" />
+  <img src="https://img.shields.io/github/stars/drhtka/anti_fraud_analytics_platform?style=flat&label=Anti-Fraud%20Analytics%20stars&color=0b1220" />
+  <img src="https://img.shields.io/github/forks/drhtka/anti_fraud_analytics_platform?style=flat&label=Anti-Fraud%20Analytics%20forks&color=0b1220" />
+  <img src="https://img.shields.io/github/last-commit/drhtka/anti_fraud_analytics_platform?style=flat&label=Anti-Fraud%20Analytics%20updated&color=0b1220" />
 </div>
 <div align="center">
   <img src="https://img.shields.io/github/stars/drhtka/AI-Knowledge-Assistant?style=flat&label=AI%20assistant%20stars&color=0b1220" />
